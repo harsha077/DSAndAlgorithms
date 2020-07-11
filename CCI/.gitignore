@@ -1,0 +1,11 @@
+bin/*
+src/Test/*
+.settings
+.classpath
+.project
+
+
+
+
+
+/bin/
