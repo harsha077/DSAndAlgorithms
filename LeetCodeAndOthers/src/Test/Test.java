@@ -1,8 +1,24 @@
 package Test;
 
+import java.util.Arrays;
+
 public class Test {
 	
 	public static void main(String[] args) {
+		/*int a = 197;
+		System.out.println(a+ "-" +Integer.toBinaryString(a));
+		int b = 197*3;
+		System.out.println(b+ "-" +Integer.toBinaryString(b));*/
+		/*
+		Double n1 = 498828660196;
+		Double n2 = 840477629533;
+		
+		Double n3 = n1*n2;
+		System.out.println(n3);*/
+	}
+	
+	
+	/*public static void main(String[] args) {
 		char c = getChar(97);
 		char c1 = getChar(122);
 		System.out.println(c+" "+c1);
@@ -11,7 +27,7 @@ public class Test {
 	public static char getChar(int val) {
 		char c = (char) val;
 		return c;
-	}
+	}*/
 
 	/*public static boolean[][] visited = null;
 	public static void main(String[] args) {

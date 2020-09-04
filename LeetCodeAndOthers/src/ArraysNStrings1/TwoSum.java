@@ -1,4 +1,4 @@
-package ArraysNStrings;
+package ArraysNStrings1;
 
 import java.util.Arrays;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package ArraysNStrings;
+package ArraysNStrings1;
 
 public class PermutationOfOtherString {
 	

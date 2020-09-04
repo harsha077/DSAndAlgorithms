@@ -1,3 +1,4 @@
+package google1;
 class email{
 	
 
@@ -13,15 +14,15 @@ class email{
 
 			if(fromAt.indexOf('+') > -1){
 				fromAt = fromAt.substring(0,fromAt.indexOf('+'));
-				if(fromAt.length() >= 5 && fromAt.substring()){
+				/*if(fromAt.length() >= 5 && fromAt.substring()){
 						
-				}
+				}*/
 			}
 
-			if(uptoPlusStr.length() > 0 && fromAt.length() > 0 && (uptoPlusStr+fromAt).length() <=100){
+			/*if(uptoPlusStr.length() > 0 && fromAt.length() > 0 && (uptoPlusStr+fromAt).length() <=100){
 				String com = fromAt.
-					count++;
-			}
+				//	count++;
+			}*/
 		}
 		return count;
 	}

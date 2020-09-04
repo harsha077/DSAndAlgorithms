@@ -1,4 +1,4 @@
-package ArraysNStrings;
+package ArraysNStrings1;
 
 import java.util.HashMap;
 import java.util.Map;
