@@ -1,4 +1,4 @@
-package DynamicP;
+package DynamicP1;
 
 import java.util.ArrayList;
 import java.util.HashSet;

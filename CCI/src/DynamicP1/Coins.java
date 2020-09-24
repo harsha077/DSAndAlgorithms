@@ -1,3 +1,4 @@
+package DynamicP1;
 class Coins{
 	
 /*Given Infinite coins 25 Cents, 10 cents, 5 cents and 1 cent. Find the number of ways 
@@ -73,7 +74,7 @@ public int helper(int mCoinInd,int[] coinArr, int rem, int count, int n){
 	int mCoin = coinArr[mCoinInd];
 	int coinCount = n/mCoin;
 	int maxCoinVal = mCoin * coinCount;
-	int rem = ((mCoinInd!=coinArr.length-1)?n - maxCoinVal:maxCoinVal);
+	rem = ((mCoinInd!=coinArr.length-1)?n - maxCoinVal:maxCoinVal);
 
 	while(maxCoinVal>0){
 		while(currCoinInd < len){

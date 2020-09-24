@@ -1,3 +1,4 @@
+package DynamicP1;
 class PaintFill{
 	
 	//My Solution, RunTime O(1)
@@ -62,7 +63,7 @@ class PaintFill{
 		int b = 2;
 		int color = 7;
 
-		imageArr = paintFill(imageArr,a,b,color);
+		//imageArr = paintFill(imageArr,a,b,color);
 		
 		/*for(int i=0;i<5;i++){
 			for(int j=0;j<5;j++){

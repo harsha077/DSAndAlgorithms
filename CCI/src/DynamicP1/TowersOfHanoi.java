@@ -1,4 +1,4 @@
-package DynamicP;
+package DynamicP1;
 
 import java.net.Inet4Address;
 import java.util.Stack;

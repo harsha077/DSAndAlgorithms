@@ -1,4 +1,4 @@
-package DynamicP;
+package DynamicP1;
 
 public class RecursivlyMultiply {
 
